@@ -1,7 +1,13 @@
 body{
 	/*para usar el puglins de colorpiker teclear ctrl+shift+c*/
-	background-color: #96DAEE;
+	background-color: #F4DAC9;
 	color: #E56565;
+	font-family: 'Lato', sans-serif;
+}
+
+img{
+	max-width: 100%;
+	
 }
 
 .quitar-float{
@@ -12,14 +18,27 @@ body{
 	margin-top: 100px;
 }
 
-#principal{
-	width: 40%;
-	float: none;
-	margin-top: 100%;
-	text-align: center;
+.Domine{
+	font-family: 'Domine', serif;
 }
 
-img{
-	max-width: 100%;
-	
+.grande{
+	font-size: 3em;
+}
+
+.espacio-derecha{
+	margin-right: 1em;
+}
+
+.red{
+	color: #F23545;
+}
+
+.sub{
+	color: #29A30F;
+}
+
+a{
+	color: #914E86;
+	font-family: bold;
 }
