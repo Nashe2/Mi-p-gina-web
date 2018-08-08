@@ -1,0 +1,25 @@
+body{
+	/*para usar el puglins de colorpiker teclear ctrl+shift+c*/
+	background-color: #96DAEE;
+	color: #E56565;
+}
+
+.quitar-float{
+	float: none;
+}
+
+.espacio-arriba{
+	margin-top: 100px;
+}
+
+#principal{
+	width: 40%;
+	float: none;
+	margin-top: 100%;
+	text-align: center;
+}
+
+img{
+	max-width: 100%;
+	
+}
