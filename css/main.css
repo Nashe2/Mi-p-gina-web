@@ -38,6 +38,13 @@ img{
 	color: #29A30F;
 }
 
+.black{
+	color: #170808;
+}
+
+.vete-arriba{
+	vertical-align: top;
+}
 .padding-largo{
 	margin: 5px 10px; 
 }
@@ -47,6 +54,7 @@ img{
 	display: inline-block;
 	margin-right: -4px;
 }
+
 .se-gris{
 	background-color: #eee;
 }
@@ -60,7 +68,7 @@ img{
 
 }
 
-a{
+a,.violeta{
 	color: #914E86;
 	font-family: bold;
 }
