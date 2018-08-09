@@ -38,6 +38,28 @@ img{
 	color: #29A30F;
 }
 
+.padding-largo{
+	margin: 5px 10px; 
+}
+
+.inline-block{
+	float:none;
+	display: inline-block;
+	margin-right: -4px;
+}
+.se-gris{
+	background-color: #eee;
+}
+
+.no-list{
+	margin: 0px;
+	padding: 0px;
+}
+.no-list li{
+	list-style-type: none;
+
+}
+
 a{
 	color: #914E86;
 	font-family: bold;
