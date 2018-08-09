@@ -42,6 +42,9 @@ img{
 	color: #170808;
 }
 
+.conta-media{
+	font-size: 2em;
+}
 .vete-arriba{
 	vertical-align: top;
 }
@@ -66,6 +69,10 @@ img{
 .no-list li{
 	list-style-type: none;
 
+}
+
+.salto{
+	margin-bottom: : 10px;
 }
 
 a,.violeta{
